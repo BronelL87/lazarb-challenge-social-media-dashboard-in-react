@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/Inter_28pt-Regular.ttf');
+}
+
+body{
+    font-family: 'Inter';
+}
+
+.instagramGradient{
+    background-image: linear-gradient(to right, hsl(37, 97%, 70%), hsl(329, 70%, 58%));
+}
+.darkThemeGradient{
+    background-image: linear-gradient(to right, hsl(210, 78%, 56%), hsl(146, 68%, 55%));
+}
+
+.facebookBg{
+    background-color: #198ff5;
+}
+.twitterBg{
+    background-color: #1ca0f2;
+}
+.youtubeBg{
+    background-color: #c4032a;
+}

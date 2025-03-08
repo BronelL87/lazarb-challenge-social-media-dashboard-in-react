@@ -1,0 +1,115 @@
+{
+"totalFollowers": "23,004",
+"socialCards": [
+  {
+    "plat": "Facebook",
+    "user": "@nathanf",
+    "platLogo": "facebookIcon",
+    "platBar": "facebookBg",
+    "num": "1987",
+    "category": "FOLLOWERS",
+    "arrow": "up",
+    "info": "12 Today",
+    "textColor": "text-green-500"
+  },
+  {
+    "plat": "Twitter",
+    "user": "@nathanf",
+    "platLogo": "twitterIcon",
+    "platBar": "twitterBg",
+    "num": "1044",
+    "category": "FOLLOWERS",
+    "arrow": "up",
+    "info": "99 Today",
+    "textColor": "text-green-500"
+  },
+  {
+    "plat": "Instagram",
+    "user": "@realnathanf",
+    "platLogo": "instagramIcon",
+    "platBar": "instagramGradient",
+    "num": "11k",
+    "category": "FOLLOWERS",
+    "arrow": "up",
+    "info": "1099 Today",
+    "textColor": "text-green-500"
+  },
+  {
+    "plat": "YouTube",
+    "user": "Nathan F.",
+    "platLogo": "youtubeIcon",
+    "platBar": "youtubeBg",
+    "num": "8239",
+    "category": "SUBSCRIBERS",
+    "arrow": "down",
+    "info": "144 Today",
+    "textColor": "text-red-500"
+  }
+],
+"dailyStats": [
+  {
+    "category": "Page Views",
+    "platLogo": "facebookIcon",
+    "num": "87",
+    "percentage": "3%",
+    "arrow": "up",
+    "textColor": "text-green-500"
+  },
+  {
+    "category": "Likes",
+    "platLogo": "facebookIcon",
+    "num": "52",
+    "percentage": "2%",
+    "arrow": "down",
+    "textColor": "text-red-500"
+  },
+  {
+    "category": "Likes",
+    "platLogo": "instagramIcon",
+    "num": "5462",
+    "percentage": "2257%",
+    "arrow": "up",
+    "textColor": "text-green-500"
+  },
+  {
+    "category": "Profile Views",
+    "platLogo": "instagramIcon",
+    "num": "52k",
+    "percentage": "1375%",
+    "arrow": "up",
+    "textColor": "text-green-500"
+  },
+  {
+    "category": "Retweets",
+    "platLogo": "twitterIcon",
+    "num": "117",
+    "percentage": "303%",
+    "arrow": "up",
+    "textColor": "text-green-500"
+  },
+  {
+    "category": "Likes",
+    "platLogo": "twitterIcon",
+    "num": "507",
+    "percentage": "553%",
+    "arrow": "up",
+    "textColor": "text-green-500"
+  },
+  {
+    "category": "Likes",
+    "platLogo": "youtubeIcon",
+    "num": "107",
+    "percentage": "19%",
+    "arrow": "down",
+    "textColor": "text-red-500"
+  },
+  {
+    "category": "Total Views",
+    "platLogo": "youtubeIcon",
+    "num": "1407",
+    "percentage": "12%",
+    "arrow": "down",
+    "textColor": "text-red-500"
+  }
+]
+}
