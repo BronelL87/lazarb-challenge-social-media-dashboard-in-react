@@ -18,8 +18,8 @@
 ### Peer Review
 
 
-**Reviewer:** 
+**Reviewer: Juan Heredia** 
  
 
-**Reviewer Notes:** 
+**Reviewer Notes:Desktop is fine, theres no hover effects, also the top background doesnt cover the whole width, the responsivenes is mostly fine, but on mobile and tablet it overflows past the background on the bottom, also on mobile theres supposed to be a line separating the tittle nad toggle.** 
  
